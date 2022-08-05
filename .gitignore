@@ -1,3 +1,7 @@
+# IntelliJ IDEA config
+.idea
+
+# Gradle config
 .gradle
 /build/
 
